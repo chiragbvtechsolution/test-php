@@ -1,3 +1,3 @@
 <?php
-echo 'Test PHP'; 
+echo 'Auto Update Test PHP'; 
 ?>
